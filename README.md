@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Chaithra! 👋
 
-<!--
-**chaithra-2007/chaithra-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer
 
-Here are some ideas to get you started:
+🎓 Learning Java and Data Structures & Algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Python, C Programming and Software Development.
+
+🚀 Projects:
+- Spider-Man Web Shooting Effect using Python, OpenCV and MediaPipe.
+
+### Technical Skills
+- Java
+- Python
+- C Programming
+- OpenCV
+- MediaPipe
+
+### Currently Learning
+- Java
+- Data Structures & Algorithms
+
+Thanks for visiting my profile! 😊
